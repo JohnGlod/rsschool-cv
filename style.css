@@ -1,0 +1,6 @@
+*,
+*::after,
+*::before {
+  display: block;
+  box-sizing: border-box;
+}
